@@ -1,9 +1,9 @@
 # Hall Field Structure Analysis – MMS
 
 This repository contains:
-- Magnetic field and plasma data from the 2015 MMS event
+- Particle and field data from the 2015 October 16 
 - Jupyter notebooks used for Hall structure analysis
-- Figures used in the GRL paper
+- Latex code to generate manuscript's Figure 1
 
 ## Folder Structure
 - `data/` – NASA CDF files
