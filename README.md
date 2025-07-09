@@ -6,9 +6,9 @@ This repository contains:
 - Figures used in the GRL paper
 
 ## Folder Structure
-- `data/` – NetCDF and CSV data files
-- `code/` – Python analysis scripts
-- `figures/` – Output plots
+- `data/` – CDF files
+- `code/` – Jupyter Notebook analysis scripts
+          - Latex code to generate Figure 1 of manuscript
 
 ## Citation
 Please cite this archive as:
