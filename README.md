@@ -6,7 +6,7 @@ This repository contains:
 - Figures used in the GRL paper
 
 ## Folder Structure
-- `data/` – CDF files
+- `data/` – NASA CDF files
 - `code/` – Jupyter Notebook analysis scripts
 -         - Latex code to generate Figure 1 of manuscript
 
