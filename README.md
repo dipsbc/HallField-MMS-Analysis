@@ -12,4 +12,4 @@ This repository contains:
 
 ## Citation
 Please cite this archive as:
-Khan, S. et al. (2025). Hall field structure data and code [Data set]. Zenodo. DOI: 10.5281/zenodo.xxxxx
+Budhathoki D. et al. (2025). Hall field structure data and code [Data set]. Zenodo. DOI: 10.5281/zenodo.xxxxx
