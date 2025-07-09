@@ -21,7 +21,6 @@ This repository contains data and code supporting the study:
 ├── diagram1a.tex                   # LaTeX source for Figure 1a
 └── diagram1b.tex                   # LaTeX source for Figure 1b
 
-
 ---
 
 ## 📖 Usage
