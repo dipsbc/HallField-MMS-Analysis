@@ -11,15 +11,6 @@ This repository contains data and code supporting the study:
 - 📊 **Jupyter notebooks** for Hall field structure analysis, including field and particle visualization  
 - 🖼️ **LaTeX code** to generate Figure 1 of the manuscript
 
----
-
-📁 HallField-MMS-Analysis/
-├── Analysis_20151016105454.ipynb   # Jupyter analysis notebook
-├── CITATIONH.cff                   # Probably should be renamed to CITATION.cff
-├── README.md                       # Nicely formatted, now updated
-├── citation.bib                    # BibTeX citation entry
-├── diagram1a.tex                   # LaTeX source for Figure 1a
-└── diagram1b.tex                   # LaTeX source for Figure 1b
 
 ------
 
@@ -27,13 +18,12 @@ This repository contains data and code supporting the study:
 
 ```
 HallField-MMS-Analysis/
-│
-├── data/           # NASA MMS CDF files (Level 2)
-├── code/           # Jupyter notebooks for analysis
-│                   # LaTeX source code for Figure 1
-├── figures/        # Exported figures used in the paper
-├── citation.bib    # BibTeX entry for citation
-└── CITATION.cff    # GitHub-supported citation metadata
+├── Analysis_20151016105454.ipynb   # Jupyter analysis notebook
+├── CITATIONH.cff                   # Probably should be renamed to CITATION.cff
+├── README.md                       # Nicely formatted, now updated
+├── citation.bib                    # BibTeX citation entry
+├── diagram1a.tex                   # LaTeX source for Figure 1a
+└── diagram1b.tex                   # LaTeX source for Figure 1b
 ```
 
 ---
