@@ -8,7 +8,7 @@ This repository contains:
 ## Folder Structure
 - `data/` – CDF files
 - `code/` – Jupyter Notebook analysis scripts
-          - Latex code to generate Figure 1 of manuscript
+-         - Latex code to generate Figure 1 of manuscript
 
 ## Citation
 Please cite this archive as:
