@@ -47,7 +47,6 @@ If you use this data or code in your own work, please cite the following:
 
 📖 [Download BibTeX citation](citation.bib)
 
-Also available in multiple formats via the **“Cite this repository”** button on GitHub (if enabled).
 
 ---
 
